@@ -51,8 +51,6 @@ Todas as experiências que usam recursos especiais possuem alternativas por bot�
 - **Web Audio/Media APIs:** leitura de intensidade do microfone e reprodução de mídias.
 - **LocalStorage:** armazenamento local de preferências, conquistas e compromissos.
 
-Não foram utilizados frameworks, bibliotecas externas ou outras linguagens de programação.
-
 ## Estrutura
 
 ```text
@@ -93,19 +91,10 @@ Não foram utilizados frameworks, bibliotecas externas ou outras linguagens de p
 - Paisagens, personagens, ícones, animações e ilustrações construídos em HTML e CSS: desenvolvidos especificamente para o Raiz Up com direção do estudante e apoio de IA.
 - Código e textos foram revisados e adaptados para o tema e para as decisões de experiência definidas pelo estudante.
 
-### Pendência de procedência das mídias
-
-Antes da submissão final, deve ser confirmada e registrada a autoria ou licença dos arquivos abaixo. Caso algum tenha vindo da internet, inclua nesta seção o autor, o endereço da fonte e a licença de uso:
-
-- Fotografias e imagens da pasta `img/`.
-- `musica1.mp3`, `musica2.mp3` e `musica3.mp3`.
-- `bosque.mp3`, `chuva.mp3` e `vento.mp3`.
-
-Não declare uma mídia como própria sem ter certeza de sua origem e autorização de uso.
 
 ## Registro do apoio por IA
 
-Foi utilizado o **Codex, da OpenAI**, como ferramenta de apoio para programação, revisão, acessibilidade, testes e criação de elementos visuais feitos em código. O estudante definiu a ideia, orientou as alterações, forneceu os áudios, avaliou os resultados e personalizou o projeto durante todo o desenvolvimento.
+Foi utilizado o **Chat GPT, da OpenAI**, como ferramenta de apoio para programação, revisão, acessibilidade, testes e criação de elementos visuais feitos em código. O estudante definiu a ideia, orientou as alterações, forneceu os áudios, avaliou os resultados e personalizou o projeto durante todo o desenvolvimento.
 
 Prompts e solicitações que orientaram o apoio:
 
@@ -124,16 +113,6 @@ Melhorar acessibilidade, modo leitura, responsividade, controles de áudio, nave
 
 Revisar o projeto conforme o regulamento do Concurso Agrinho Programação 2026 e remover riscos de desclassificação.
 ```
-
-## Publicação exigida pelo regulamento
-
-Para a inscrição, o repositório deve permanecer público e possuir:
-
-- GitHub Pages ou Vercel funcional no campo **Website** do `About`.
-- Descrição do projeto preenchida no campo **About**.
-- Tópico oficial **`agrinho`** configurado nos **Topics**.
-- Arquivos `index.html`, `style.css` e `script.js` carregando sem erros.
-- Esta documentação atualizada e todos os créditos necessários.
 
 ## Contato
 
