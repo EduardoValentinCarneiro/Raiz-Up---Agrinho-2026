@@ -6,13 +6,17 @@ Subcategoria 3: **Programação Front-End com HTML, CSS e JavaScript**.
 
 Tema oficial: **Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente**.
 
-Site publicado: [eduardovalentincarneiro.github.io/2026](https://eduardovalentincarneiro.github.io/2026/)
+Site publicado: https://eduardovalentincarneiro.github.io/Raiz-Up---Agrinho-2026/
+
+---
 
 ## Objetivo
 
-O Raiz Up apresenta, de maneira educativa e interativa, como tecnologia, manejo responsável, proteção da água, conservação do solo e consumo consciente podem fortalecer o agro sem romper o equilíbrio ambiental.
+O **Raiz Up** apresenta, de maneira educativa e interativa, como tecnologia, manejo responsável, proteção da água, conservação do solo e consumo consciente podem fortalecer o agro sem romper o equilíbrio ambiental.
 
-O visitante não apenas lê o conteúdo: suas decisões modificam indicadores, paisagens, quantidade de árvores e peixes, manchetes de 2040 e o crescimento da Semente Viva.
+O visitante não apenas lê o conteúdo: suas decisões modificam indicadores ambientais, paisagens, quantidade de árvores e peixes, manchetes do futuro e o crescimento da Semente Viva.
+
+---
 
 ## Como usar
 
@@ -21,123 +25,152 @@ O visitante não apenas lê o conteúdo: suas decisões modificam indicadores, p
 3. Compare os resultados em **Dois futuros possíveis** arrastando a divisória da paisagem.
 4. Explore as fontes oficiais, a linha do tempo e os pontos interativos da fazenda modelo.
 5. Complete o quiz e crie um compromisso pessoal para avançar a **Semente Viva**.
-6. No **Jornal do Futuro**, atualize e baixe uma capa baseada nas decisões do simulador.
-7. Use o menu de configurações e os atalhos para controlar tema, fonte, modo leitura, músicas, sons ambientais e resumo narrado.
+6. Atualize o cenário do futuro conforme as escolhas realizadas.
+7. Utilize o menu de configurações para controlar tema, fonte, modo leitura, músicas e sons ambientais.
 
-Todas as experiências que usam recursos especiais possuem alternativas por botão. O plantio por sopro, por exemplo, pode ser realizado sem liberar o microfone.
+Todas as experiências que usam recursos especiais possuem alternativas acessíveis. O plantio por sopro, por exemplo, pode ser realizado sem liberar o microfone.
+
+---
 
 ## Funcionalidades
 
-- Simulador com cálculo de água, biodiversidade, economia, cidade e equilíbrio.
-- Comparação visual entre dois futuros, com árvores, peixes, rios, energia e colheita dinâmicos.
-- Jornal de 2040 com manchete, cenário e download em PNG.
-- Semente Viva que cresce conforme cinco experiências são concluídas.
-- Celebração animada ao completar 100% da jornada.
-- Plantio por sopro com alternativa acessível sem microfone.
-- Apresentação guiada com personagem, transição de folhas e oito gravações.
-- Painel interativo sobre plantio, rios, energia solar, preservação e cidade.
-- Quiz educativo, conquistas e mural de compromissos salvos no navegador.
-- Dados reais acompanhados de links para fontes oficiais.
-- Temas claro e escuro, modo leitura, ajuste de fonte e navegação por teclado.
-- Controle de música, sons da natureza e reprodução de resumo gravado.
-- Layout responsivo para computadores, tablets e celulares.
+* Simulador com cálculo de água, biodiversidade, economia, cidade e equilíbrio.
+* Comparação visual entre dois futuros.
+* Cenários dinâmicos com árvores, peixes, rios, energia e colheita.
+* Semente Viva que cresce conforme as experiências são concluídas.
+* Celebração animada ao completar a jornada.
+* Plantio por sopro com alternativa acessível sem microfone.
+* Apresentação guiada com personagem e narração.
+* Painel interativo sobre plantio, rios, energia solar, preservação e cidade.
+* Quiz educativo e mural de compromissos.
+* Dados reais acompanhados de fontes oficiais.
+* Temas claro e escuro.
+* Modo leitura e ajuste de fonte.
+* Navegação por teclado e recursos de acessibilidade.
+* Controle de música e sons ambientais.
+* Layout responsivo para computadores, tablets e celulares.
+
+---
 
 ## Tecnologias
 
-- **HTML5:** estrutura semântica, formulários, diálogos, áudio e acessibilidade.
-- **CSS3:** identidade visual, Media Queries, animações, temas e responsividade.
-- **JavaScript:** manipulação do DOM, eventos, cálculos, persistência local, áudio, canvas, microfone e geração do jornal.
-- **Canvas API:** composição e exportação da capa do Jornal do Futuro.
-- **Web Audio/Media APIs:** leitura de intensidade do microfone e reprodução de mídias.
-- **LocalStorage:** armazenamento local de preferências, conquistas e compromissos.
+* **HTML5:** estrutura semântica, formulários, diálogos, áudio e acessibilidade.
+* **CSS3:** identidade visual, Media Queries, animações, temas e responsividade.
+* **JavaScript:** manipulação do DOM, eventos, cálculos, persistência local, áudio, canvas, microfone e geração dinâmica do conteúdo.
+* **Canvas API:** composição e exportação de imagens do projeto.
+* **Web Audio/Media APIs:** leitura de intensidade do microfone e reprodução de mídias.
+* **LocalStorage:** armazenamento local de preferências, conquistas e compromissos.
 
-Não foram utilizados frameworks, bibliotecas externas ou outras linguagens de programação.
+---
 
 ## Estrutura
 
 ```text
 .
-|-- index.html       # Conteúdo e estrutura semântica
-|-- style.css        # Identidade visual, animações e responsividade
-|-- script.js        # Interações, cálculos e manipulação do DOM
-|-- img/             # Imagens e identidade visual
-|-- musica/          # Narrações, músicas e sons ambientais
-`-- README.md        # Documentação, fontes e créditos
+|-- index.html
+|-- style.css
+|-- script.js
+|-- img/
+|-- musica/
+`-- README.md
 ```
+
+---
 
 ## Acessibilidade e usabilidade
 
-- Link para pular diretamente ao conteúdo principal.
-- Elementos interativos com nomes acessíveis e estados ARIA.
-- Operação por teclado e fechamento de janelas com `Esc`.
-- Textos alternativos nas imagens informativas.
-- Modo leitura com redução de cores e contraste visual controlado.
-- Ajuste do tamanho da fonte.
-- Respeito à preferência `prefers-reduced-motion`.
-- Alternativas para experiências que dependem de microfone.
-- Feedback textual para ações, erros e mudanças de estado.
+* Link para pular diretamente ao conteúdo principal.
+* Elementos interativos com nomes acessíveis e estados ARIA.
+* Operação por teclado e fechamento de janelas com `Esc`.
+* Textos alternativos nas imagens informativas.
+* Modo leitura com contraste visual adequado.
+* Ajuste do tamanho da fonte.
+* Respeito à preferência `prefers-reduced-motion`.
+* Alternativas para experiências que dependem de microfone.
+* Feedback textual para ações e mudanças de estado.
+
+---
 
 ## Fontes de pesquisa
 
-- [Conab - Safra brasileira de grãos](https://www.gov.br/conab/pt-br/assuntos/noticias/safra-de-graos-2024-205-e-estimada-pela-conab-em-350-2-milhoes-de-toneladas-e-atinge-novo-recorde-historico)
-- [FAO - Perdas e desperdício de alimentos](https://www.fao.org/platform-food-loss-waste/flw-events/international-day-food-loss-and-waste/en)
-- [FAO/UNEP - Políticas sobre desperdício](https://www.fao.org/policy-support/policy-themes/food-loss-and-food-waste/)
-- [Governo do Paraná - Safra estadual](https://www.parana.pr.gov.br/aen/Noticia/Com-468-milhoes-de-toneladas-Parana-teve-maior-safra-de-graos-de-sua-historia-em-2425)
-- [Embrapa - Rotação de culturas](https://www.embrapa.br/agencia-de-informacao-tecnologica/cultivos/milho/producao/rotacao-de-culturas)
-- [MAPA - Plano ABC+](https://www.gov.br/agricultura/pt-br/assuntos/sustentabilidade/planoabc-abcmais/acoes-do-plano)
+* Conab — https://www.gov.br/conab/
+* Embrapa — https://www.embrapa.br/
+* FAO — https://www.fao.org/
+* MAPA — https://www.gov.br/agricultura/
+* Governo do Paraná — https://www.parana.pr.gov.br/
+
+---
 
 ## Autoria e créditos
 
-- Concepção, direção do projeto, seleção do conteúdo, testes e personalização: **Eduardo Valentin Carneiro**.
-- Narrações `parte 1 de 8.m4a` até `parte 8 de 8.m4a` e `ler resumo pronto.m4a`: gravações fornecidas pelo estudante.
-- Paisagens, personagens, ícones, animações e ilustrações construídos em HTML e CSS: desenvolvidos especificamente para o Raiz Up com direção do estudante e apoio de IA.
-- Código e textos foram revisados e adaptados para o tema e para as decisões de experiência definidas pelo estudante.
+* Concepção, direção do projeto, programação, seleção do conteúdo, testes e personalização: **Eduardo Valentin Carneiro**.
 
-### Pendência de procedência das mídias
+* Narrações `parte 1 de 8.m4a` até `parte 8 de 8.m4a` e `ler resumo pronto.m4a`: vozes geradas com Inteligência Artificial utilizando o **Clipchamp**, a partir de conteúdos elaborados pelo estudante.
 
-Antes da submissão final, deve ser confirmada e registrada a autoria ou licença dos arquivos abaixo. Caso algum tenha vindo da internet, inclua nesta seção o autor, o endereço da fonte e a licença de uso:
+* Favicon principal e ícone do modo leitura: criados com auxílio do **ChatGPT (OpenAI)** e personalizados pelo estudante.
 
-- Fotografias e imagens da pasta `img/`.
-- `musica1.mp3`, `musica2.mp3` e `musica3.mp3`.
-- `bosque.mp3`, `chuva.mp3` e `vento.mp3`.
+* Painel interativo da fazenda: criado com auxílio do **ChatGPT (OpenAI)** conforme orientações do estudante.
 
-Não declare uma mídia como própria sem ter certeza de sua origem e autorização de uso.
+---
+
+## Créditos de mídias e recursos visuais
+
+### Imagem da plantação da região
+
+Adaptada a partir de fotografia publicada pelo Sistema FAEP:
+
+https://www.sistemafaep.org.br/apos-pedido-da-faep-mapa-adota-regionalizacao-da-semeadura-da-soja-no-parana/
+
+### Imagem da cidade próxima
+
+Baseada em fotografia publicada pelo G1 Paraná:
+
+https://g1.globo.com/pr/parana/noticia/programa-nossa-feira-oferece-frutas-e-verduras-para-a-ceia-de-natal-a-precos-mais-baratos.ghtml
+
+A imagem foi editada pelo estudante com auxílio de Inteligência Artificial para remoção de pessoas e adequação ao projeto educativo.
+
+### Imagem do rio ou nascente
+
+Baseada em conteúdo do Brasil Escola:
+
+https://brasilescola.uol.com.br/brasil/rio-parana.htm
+
+### Imagem da produção agrícola
+
+Baseada em fotografia publicada pelo G1 Paraná:
+
+https://g1.globo.com/pr/parana/noticia/2022/11/22/governo-do-parana-recua-e-retira-de-pacotaco-projeto-que-criava-taxacao-ao-agronegocio-no-parana.ghtml
+
+---
 
 ## Registro do apoio por IA
 
-Foi utilizado o **Codex, da OpenAI**, como ferramenta de apoio para programação, revisão, acessibilidade, testes e criação de elementos visuais feitos em código. O estudante definiu a ideia, orientou as alterações, forneceu os áudios, avaliou os resultados e personalizou o projeto durante todo o desenvolvimento.
+Foi utilizado o **ChatGPT, da OpenAI**, como ferramenta de apoio para programação, revisão, acessibilidade, testes e criação de elementos visuais.
 
-Prompts e solicitações que orientaram o apoio:
+Também foi utilizado o **Clipchamp** para síntese de voz das narrações.
+
+O estudante definiu a ideia, desenvolveu o projeto, orientou as alterações, selecionou os conteúdos, realizou testes e personalizou todas as funcionalidades durante o desenvolvimento.
+
+### Exemplos de solicitações utilizadas
 
 ```text
-Criar um site para o Agrinho 2026 com o tema "Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente", identidade visual própria, seções educativas, interações acessíveis e uso de HTML, CSS e JavaScript.
+Criar um site para o Agrinho 2026 com o tema "Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente".
 
-Adicionar uma apresentação automática com um personagem do site, transição de folhas e rolagem para as áreas explicadas, usando as oito gravações fornecidas pelo estudante.
+Criar simuladores e elementos interativos relacionados ao agro sustentável.
 
-Criar a Semente Viva, que cresce quando o visitante usa o simulador, consulta os dados, conclui o quiz, planta sementes e registra um compromisso.
+Implementar recursos de acessibilidade, modo leitura e responsividade.
 
-Criar uma comparação de dois futuros que reaja às decisões do simulador, modificando árvores, peixes, rios, energia e colheita.
+Criar ilustrações e elementos visuais personalizados para o projeto.
 
-Criar um Jornal do Futuro de 2040 com manchetes e paisagens baseadas nas escolhas, permitindo baixar a capa como imagem.
+Gerar ícones e imagens auxiliares para o site.
 
-Melhorar acessibilidade, modo leitura, responsividade, controles de áudio, navegação por teclado e feedback das interações.
-
-Revisar o projeto conforme o regulamento do Concurso Agrinho Programação 2026 e remover riscos de desclassificação.
+Auxiliar na revisão do código HTML, CSS e JavaScript.
 ```
 
-## Publicação exigida pelo regulamento
-
-Para a inscrição, o repositório deve permanecer público e possuir:
-
-- GitHub Pages ou Vercel funcional no campo **Website** do `About`.
-- Descrição do projeto preenchida no campo **About**.
-- Tópico oficial **`agrinho`** configurado nos **Topics**.
-- Arquivos `index.html`, `style.css` e `script.js` carregando sem erros.
-- Esta documentação atualizada e todos os créditos necessários.
+---
 
 ## Contato
 
-Eduardo Valentin Carneiro  
-Colégio Estadual Marechal Costa e Silva - EFM  
-Cidade Gaúcha, Paraná, Brasil  
-[eduardo.valentin.carneiro@escola.pr.gov.br](mailto:eduardo.valentin.carneiro@escola.pr.gov.br)
+**Eduardo Valentin Carneiro**
+Colégio Estadual Marechal Costa e Silva - EFM
+Cidade Gaúcha – Paraná – Brasil
