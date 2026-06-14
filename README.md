@@ -114,6 +114,16 @@ Melhorar acessibilidade, modo leitura, responsividade, controles de áudio, nave
 Revisar o projeto conforme o regulamento do Concurso Agrinho Programação 2026 e remover riscos de desclassificação.
 ```
 
+### Recursos sonoros e músicas
+
+* As músicas e sons ambientais utilizados no projeto foram obtidos na plataforma **Pixabay**, que disponibiliza recursos de áudio para uso conforme seus termos de licença.
+
+Fonte:
+https://pixabay.com/pt/music/search/agricultura/
+
+* Os arquivos de áudio foram selecionados, organizados e integrados ao projeto pelo estudante, com o objetivo de proporcionar uma experiência mais imersiva e educativa relacionada ao ambiente agrícola e à sustentabilidade.
+
+
 ## Contato
 
 Eduardo Valentin Carneiro  
